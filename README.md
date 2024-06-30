@@ -1,4 +1,4 @@
-The Random Cat Fact Generator is a simple web application built using React. It fetches random cat facts from an external API and displays them to the user upon clicking a button.
+The Random Cat Fact Generator is a simple web application built using React. It fetches random cat facts from https://meowfacts.herokuapp.com/ , a simple API and displays them to the user upon clicking a button.
 
 The website is deployed using Netlify and can be accessed: https://main--catfactgenerator.netlify.app/
 
